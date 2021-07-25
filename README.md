@@ -1,2 +1,2 @@
 # Practice
-Practicing to add exixting folders into github repositories
+Practicing to add existing folders into github repositories
